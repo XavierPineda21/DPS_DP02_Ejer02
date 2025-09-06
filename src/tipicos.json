@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nombre": "Pupusas",
+    "descripcion": "Tortillas rellenas de queso, frijoles o chicharrón.",
+    "foto": "https://whiskedawaykitchen.com/wp-content/uploads/2024/07/bean-cheese-pupusas-8.jpg",
+    "ingredientes": ["Masa de maíz", "Queso", "Frijoles", "Chicharrón"],
+    "region": "El Salvador",
+    "precio": "$0.50",
+    "categoria": "Comida típica"
+  },
+  {
+    "id": "2",
+    "nombre": "Tamales",
+    "descripcion": "Masa rellena con carne y envuelta en hojas de plátano.",
+    "foto": "https://prensadehouston.com/wp-content/uploads/2023/08/RECETA-PRINCIPAL-6.jpg",
+    "ingredientes": ["Masa de maíz", "Pollo", "Papas", "Hojas de plátano"],
+    "region": "Centroamérica",
+    "precio": "$1.00",
+    "categoria": "Comida típica"
+  },
+  {
+    "id": "3",
+    "nombre": "Yuca frita con chicharrón",
+    "descripcion": "Yuca frita acompañada de chicharrón y curtido.",
+    "foto": "https://www.196flavors.com/wp-content/uploads/2019/01/yuca-con-chicharron-1-FP.jpg",
+    "ingredientes": ["Yuca", "Chicharrón", "Curtido", "Salsa"],
+    "region": "El Salvador",
+    "precio": "$1.50",
+    "categoria": "Comida típica"
+  }
+]
